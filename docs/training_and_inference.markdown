@@ -201,4 +201,4 @@ If there are any other question, please scan the QR code at the bottom of this r
 
 <img src="https://user-images.githubusercontent.com/107520869/202339768-68ab0dae-9871-406e-a393-07b5b157b0c2.jpg" width="200">
 
-(T/N: For English support, you can contact Nekro via discord via username (a new day a new disappointment#9085), or twitter (@NekroTheCorpse).
+(T/N: For English support, you can join this discord server for support: https://discord.gg/mRb6T5NnXq)
