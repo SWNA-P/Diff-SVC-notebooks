@@ -1,4 +1,4 @@
-Diff-SVC walk through translation
+Diff-SVC walk through, translation by [Nekro](https://twitter.com/NekroTheCorpse)
 
 # Diff-SVC(train/inference by yourself)
 ## 0. Setting up the environment
@@ -197,5 +197,6 @@ The version of torch is too old, please upgrade to a higher version.
 Check if use_crepe is enabled in the settings, turning it off can greatly increase speeds.\
 Check if hubert_gpu is enabled in settings.
 
-If there are any other question, please scan the QR code at the bottom of this repository for inquiry.
+If there are any other question, please scan the QR code at the bottom of this repository for inquiry. (T/N: It's a Chinese group on QQ, so do take notice of that)
 
+<img src="https://user-images.githubusercontent.com/107520869/202339768-68ab0dae-9871-406e-a393-07b5b157b0c2.jpg" width="200">
